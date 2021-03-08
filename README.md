@@ -1,4 +1,4 @@
-# rego-sublime-syntax
+# Rego Syntax Highlighter
 
 Syntax highlighting of Rego for Sublime Text using the .sublime-syntax format.
 
@@ -13,7 +13,7 @@ Isolated in a separate package from [OPA repository](https://github.com/open-pol
 
 ### Sublime Text Manual Install
 
-1. Download or clone this repository into ```[install-dir]/Packages/rego-sublime-syntax```
+1. Download or clone this repository into ```[install-dir]/Packages/rego-syntax-highlighter```
 2. Restart Sublime Text.
 3. Reopen any ```.rego``` files.
 4. Enjoy :)
