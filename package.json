@@ -1,0 +1,19 @@
+{
+  "schema_version": "3.0.0",
+  "packages": [
+    {
+      "name": "OPA Rego Highlighter",
+      "description": "Open Policy Agent Rego syntax highlighter support for Sublime Text.",
+      "author": "Andrés Téllez",
+      "homepage": "https://github.com/hatxor/rego-sublime-syntax",
+      "details": "https://github.com/hatxor/rego-sublime-syntax",
+      "labels": [
+        "rego",
+        "opa",
+        "policy",
+        "agent",
+        "language syntax"
+      ]
+    }
+  ]
+}
